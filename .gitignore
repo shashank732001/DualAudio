@@ -1,0 +1,9 @@
+# build output
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# per-user settings
+dualaudio.cfg
+dualaudio.ini
